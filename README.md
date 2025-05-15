@@ -1,7 +1,7 @@
 # Socio-demographic variation in the association between modes of access and patient experience of primary care
 
 ## Description
-This repository includes code used to run the The Health Foundation Improvement Analytics Unit's analysis of socio-demographic variation in the association between modes of access and patient experience of primary care: a retrospective cross-sectional patient-level analysis of the General Practice Patient Survey in England in 2023 ([preprint here](<<ADD LINK>>)). Full details on background, methodology, and results can be found in the preprint.
+This repository includes code used to run the The Health Foundation Improvement Analytics Unit's analysis of socio-demographic variation in the association between modes of access and patient experience of primary care: a retrospective cross-sectional patient-level analysis of the General Practice Patient Survey in England in 2023.
 
 ## Data sources
 
