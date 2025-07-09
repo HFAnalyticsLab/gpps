@@ -25,8 +25,6 @@ Scripts should be run in order as numbered. GPPS data are not publicly available
 
 Authors: Tatjana Marks, Xiaochen Ge, Sarah-Opie Martin, Rebecca Xu, Geraldine Clarke
 
-The Improvement Analytics Unit (IAU) is a partnership between NHS England and the Health Foundation. The research was undertaken by the IAU and jointly funded by the Health Foundation and NHS England. The HES data are used with permission from NHS England who retain the copyright for those data. The authors thank the Surgical Hubs team at Getting It Right First Time (NHS England) for providing advice on the context and interpretation of results, and colleagues in the IAU (the Health Foundation) for data management and preparation.
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit/).
